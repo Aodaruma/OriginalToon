@@ -4,10 +4,6 @@ AviUtl内でオリジナルのトゥーン素材を保存し、輝度情報に�
 
 現在は **version 1.01** が最新です。
 
-![youtube](https://www.youtube.com/watch?v=apWXd0f95eE)
-
-https://www.youtube.com/watch?v=apWXd0f95eE
-
 rikky氏制作の `rikky_module.dll`または`rikky_module.auf` があると、自動でアンカーをリセットしたり、スクリプトの動作速度が改善することがあります。
 
 以下のスクリプトが備わっています。
